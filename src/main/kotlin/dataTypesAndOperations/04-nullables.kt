@@ -1,4 +1,4 @@
-package challanges.dataTypesAndOperations
+package dataTypesAndOperations
 
 fun main() {
     print("Password: ")
